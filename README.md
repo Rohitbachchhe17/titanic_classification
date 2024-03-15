@@ -1,4 +1,6 @@
-![logo](https://github.com/Rohitbachchhe17/titanic_classification/assets/163370274/74cca64e-81d2-4153-b35e-f7d80dfef8e6)
+## Titanic Classification 
+
+## ![logo](https://github.com/Rohitbachchhe17/titanic_classification/assets/163370274/74cca64e-81d2-4153-b35e-f7d80dfef8e6)
 
 This dataset requires us to predict 'What sorts of people were likely to survive the titanic shipreck?'. This is a Classification problem and I used the following three classification models.
 
@@ -7,7 +9,7 @@ This dataset requires us to predict 'What sorts of people were likely to survive
 3. Random Forest Classifier
 
 
-#Titanic-classification
+## Titanic-classification
 
 A classification approach to the machine learning Titanic survival challenge on Kaggle.Data visualisation, data preprocessing and different algorithms are tested and explained in form of Jupyter Notebooks.# Titanic Survival Prediction
 
@@ -29,8 +31,5 @@ We employ various machine learning algorithms such as logistic regression, decis
 
 We evaluate the performance of our model using metrics such as accuracy, precision, recall, and F1-score. Additionally, we visualize the results using confusion matrices and ROC curves.
 
-## Usage
-
-1. Clone the repository:
 
 
