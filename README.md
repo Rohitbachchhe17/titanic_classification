@@ -5,7 +5,5 @@ This dataset requires us to predict 'What sorts of people were likely to survive
 3. Random Forest Classifier
 
 
-Public Score from Kaggle
-1. Support Vector Machine- 0.7790
-2. Random Forest Classifier- 0.7751
-3. Logistic Regression- 0.7464
+titanic-classification
+A classification approach to the machine learning Titanic survival challenge on Kaggle.Data visualisation, data preprocessing and different algorithms are tested and explained in form of Jupyter Notebooks
